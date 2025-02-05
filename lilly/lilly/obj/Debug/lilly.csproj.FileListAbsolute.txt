@@ -1,0 +1,7 @@
+C:\Users\786\Desktop\lilly\lilly\bin\Debug\lilly.exe.config
+C:\Users\786\Desktop\lilly\lilly\bin\Debug\lilly.exe
+C:\Users\786\Desktop\lilly\lilly\bin\Debug\lilly.pdb
+C:\Users\786\Desktop\lilly\lilly\obj\Debug\lilly.csproj.AssemblyReference.cache
+C:\Users\786\Desktop\lilly\lilly\obj\Debug\lilly.csproj.CoreCompileInputs.cache
+C:\Users\786\Desktop\lilly\lilly\obj\Debug\lilly.exe
+C:\Users\786\Desktop\lilly\lilly\obj\Debug\lilly.pdb
