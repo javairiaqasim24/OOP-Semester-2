@@ -1,0 +1,14 @@
+C:\Users\786\Desktop\labmauunal4\labmauunal4\obj\Debug\labmauunal4.csproj.AssemblyReference.cache
+C:\Users\786\Desktop\labmauunal4\labmauunal4\obj\Debug\labmauunal4.csproj.CoreCompileInputs.cache
+C:\Users\786\Desktop\labmauunal4\labmauunal4\bin\Debug\labmauunal4.exe.config
+C:\Users\786\Desktop\labmauunal4\labmauunal4\bin\Debug\labmauunal4.exe
+C:\Users\786\Desktop\labmauunal4\labmauunal4\bin\Debug\labmauunal4.pdb
+C:\Users\786\Desktop\labmauunal4\labmauunal4\obj\Debug\labmauunal4.exe
+C:\Users\786\Desktop\labmauunal4\labmauunal4\obj\Debug\labmauunal4.pdb
+C:\Users\786\Desktop\OOP\Week4\Week4\labmauunal4\labmauunal4\bin\Debug\labmauunal4.exe.config
+C:\Users\786\Desktop\OOP\Week4\Week4\labmauunal4\labmauunal4\bin\Debug\labmauunal4.exe
+C:\Users\786\Desktop\OOP\Week4\Week4\labmauunal4\labmauunal4\bin\Debug\labmauunal4.pdb
+C:\Users\786\Desktop\OOP\Week4\Week4\labmauunal4\labmauunal4\obj\Debug\labmauunal4.csproj.AssemblyReference.cache
+C:\Users\786\Desktop\OOP\Week4\Week4\labmauunal4\labmauunal4\obj\Debug\labmauunal4.csproj.CoreCompileInputs.cache
+C:\Users\786\Desktop\OOP\Week4\Week4\labmauunal4\labmauunal4\obj\Debug\labmauunal4.exe
+C:\Users\786\Desktop\OOP\Week4\Week4\labmauunal4\labmauunal4\obj\Debug\labmauunal4.pdb

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BABB4873-D338-499B-B12F-275E2D1EACDC}|challenge3.csproj|C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABB4873-D338-499B-B12F-275E2D1EACDC}|challenge3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABB4873-D338-499B-B12F-275E2D1EACDC}|challenge 2.csproj|C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABB4873-D338-499B-B12F-275E2D1EACDC}|challenge 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABB4873-D338-499B-B12F-275E2D1EACDC}|challenge3.csproj|c:\\users\\786\\desktop\\oop\\week4\\week4\\challenge 2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABB4873-D338-499B-B12F-275E2D1EACDC}|challenge3.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABB4873-D338-499B-B12F-275E2D1EACDC}|challenge3.csproj|C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABB4873-D338-499B-B12F-275E2D1EACDC}|challenge3.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:29:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:07:34.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:58:07.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\786\\Desktop\\OOP\\Week4\\Week4\\challenge 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAnwK0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:51:17.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

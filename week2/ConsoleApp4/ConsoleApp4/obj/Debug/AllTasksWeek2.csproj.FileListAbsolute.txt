@@ -1,0 +1,7 @@
+C:\Users\786\Desktop\OOP\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\786\Desktop\OOP\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\786\Desktop\OOP\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\786\Desktop\OOP\ConsoleApp4\ConsoleApp4\obj\Debug\AllTasksWeek2.csproj.AssemblyReference.cache
+C:\Users\786\Desktop\OOP\ConsoleApp4\ConsoleApp4\obj\Debug\AllTasksWeek2.csproj.CoreCompileInputs.cache
+C:\Users\786\Desktop\OOP\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\786\Desktop\OOP\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

@@ -1,0 +1,14 @@
+D:\2nd semester\oop lab\OOP_SEMESTER2\challenge 2\bin\Debug\challenge 2.exe.config
+D:\2nd semester\oop lab\OOP_SEMESTER2\challenge 2\bin\Debug\challenge 2.exe
+D:\2nd semester\oop lab\OOP_SEMESTER2\challenge 2\bin\Debug\challenge 2.pdb
+D:\2nd semester\oop lab\OOP_SEMESTER2\challenge 2\obj\Debug\challenge3.csproj.AssemblyReference.cache
+D:\2nd semester\oop lab\OOP_SEMESTER2\challenge 2\obj\Debug\challenge3.csproj.CoreCompileInputs.cache
+D:\2nd semester\oop lab\OOP_SEMESTER2\challenge 2\obj\Debug\challenge 2.exe
+D:\2nd semester\oop lab\OOP_SEMESTER2\challenge 2\obj\Debug\challenge 2.pdb
+C:\Users\786\Desktop\OOP\Week4\Week4\challenge 2\bin\Debug\challenge 2.exe.config
+C:\Users\786\Desktop\OOP\Week4\Week4\challenge 2\bin\Debug\challenge 2.exe
+C:\Users\786\Desktop\OOP\Week4\Week4\challenge 2\bin\Debug\challenge 2.pdb
+C:\Users\786\Desktop\OOP\Week4\Week4\challenge 2\obj\Debug\challenge3.csproj.AssemblyReference.cache
+C:\Users\786\Desktop\OOP\Week4\Week4\challenge 2\obj\Debug\challenge3.csproj.CoreCompileInputs.cache
+C:\Users\786\Desktop\OOP\Week4\Week4\challenge 2\obj\Debug\challenge 2.exe
+C:\Users\786\Desktop\OOP\Week4\Week4\challenge 2\obj\Debug\challenge 2.pdb

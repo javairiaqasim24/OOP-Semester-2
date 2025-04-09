@@ -1,0 +1,7 @@
+C:\Users\786\Desktop\labAssesment\labAssesment\bin\Debug\labAssesment.exe.config
+C:\Users\786\Desktop\labAssesment\labAssesment\bin\Debug\labAssesment.exe
+C:\Users\786\Desktop\labAssesment\labAssesment\bin\Debug\labAssesment.pdb
+C:\Users\786\Desktop\labAssesment\labAssesment\obj\Debug\labAssesment.csproj.AssemblyReference.cache
+C:\Users\786\Desktop\labAssesment\labAssesment\obj\Debug\labAssesment.csproj.CoreCompileInputs.cache
+C:\Users\786\Desktop\labAssesment\labAssesment\obj\Debug\labAssesment.exe
+C:\Users\786\Desktop\labAssesment\labAssesment\obj\Debug\labAssesment.pdb

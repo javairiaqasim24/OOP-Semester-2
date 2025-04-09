@@ -1,0 +1,2 @@
+C:\Users\786\Desktop\new3\obj\Debug\new3.csproj.AssemblyReference.cache
+C:\Users\786\Desktop\new3\obj\Debug\new3.csproj.CoreCompileInputs.cache
