@@ -8,7 +8,7 @@ namespace Challege05
 {
     internal class BMW:Cars
     {
-        private double fuelEfficiency; // in km/l
+        private double fuelEfficiency;
 
         public BMW(string color, decimal price, double fuelEfficiency)
             : base("BMW", color, price)
@@ -16,13 +16,16 @@ namespace Challege05
             this.fuelEfficiency = fuelEfficiency;
         }
 
-        public double GetFuelEfficiency() => fuelEfficiency;
+        public double GetFuelEfficiency()
+        {
+            return fuelEfficiency;
+        }
         public void SetFuelEfficiency(double value) => fuelEfficiency = value;
 
         public void CalculateFuel(double distance)
         {
             double fuelNeeded = distance / fuelEfficiency;
-            Console.WriteLine($"BMW requires {fuelNeeded:F2} liters of fuel for {distance} km.");
+            Console.WriteLine($"BMW requires {fuelNeeded} liters of fuel for {distance} km.");
         }
     }
 }

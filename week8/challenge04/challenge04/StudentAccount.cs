@@ -8,10 +8,13 @@ namespace challenge04
 {
     internal class StudentAccount:Account
     {
-        private const decimal MaxCreditLimit = 500000;
+        private decimal MaxCreditLimit;
 
         public StudentAccount(string title, string number, decimal balance)
-            : base(title, number, balance) { }
+            : base(title, number, balance) 
+        {
+            MaxCreditLimit = 500000;
+        }
 
         
         public void StudentCredit(decimal amount)

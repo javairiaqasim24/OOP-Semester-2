@@ -19,17 +19,35 @@ namespace Challege05
             this.price = price;
         }
 
-        public string GetModel() => model;
-        public string GetColor() => color;
-        public decimal GetPrice() => price;
+        public string GetModel()
+        {
+            return model;
+        }
+        public string GetColor()
+        {
+            return color;
+        }
+        public decimal GetPrice()
+        {
+            return price;
+        }
 
-        public void SetModel(string model) => this.model = model;
-        public void SetColor(string color) => this.color = color;
-        public void SetPrice(decimal price) => this.price = price;
+        public void SetModel(string model)
+        {
+            this.model = model;
+        }
+        public void SetColor(string color)
+        {
+            this.color = color;
+        }
+        public void SetPrice(decimal price)
+        {
+            this.price = price;
+        }
 
         public void DisplayInfo()
         {
-            Console.WriteLine($"Model :{model},Color Of Car {color},Price of Car {price:C}");
+            Console.WriteLine($"Model :{model},Color Of Car {color},Price of Car {price}");
         }
     }
 }

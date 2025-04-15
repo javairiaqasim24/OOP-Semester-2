@@ -12,13 +12,31 @@ namespace challenge04
         private string accountNumber;
         private decimal balance;
 
-        public string GetAccountTitle() => accountTitle;
-        public string GetAccountNumber() => accountNumber;
-        public decimal GetBalance() => balance;
+        public string GetAccountTitle()
+        {
+            return accountTitle;
+        }
+        public string GetAccountNumber()
+        {
+            return accountNumber;
+        }
+        public decimal GetBalance()
+        {
+            return balance;
+        }
 
-        public void SetAccountTitle(string title) => accountTitle = title;
-        public void SetAccountNumber(string number) => accountNumber = number;
-        public void SetBalance(decimal amount) => balance = amount;
+        public void SetAccountTitle(string title)
+        {
+            accountTitle = title;
+        }
+        public void SetAccountNumber(string number)
+        {
+            accountNumber = number;
+        }
+        public void SetBalance(decimal amount)
+        {
+            balance = amount;
+        }
 
         public Account(string title, string number, decimal initialBalance)
         {

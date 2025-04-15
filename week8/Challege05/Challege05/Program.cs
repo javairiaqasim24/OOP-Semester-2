@@ -12,13 +12,13 @@ namespace Challege05
         {
             BMW bmwCar = new BMW("Black", 8000000, 12.5);
             bmwCar.DisplayInfo();
-            bmwCar.CalculateFuel(150); // 150 km
+            bmwCar.CalculateFuel(150); 
 
             Console.WriteLine();
 
             Audi audiCar = new Audi("Red", 7500000, 8.2);
             audiCar.DisplayInfo();
-            audiCar.EstimateFuelUsage(150); // 150 km
+            audiCar.EstimateFuelUsage(150); 
         }
     }
 }

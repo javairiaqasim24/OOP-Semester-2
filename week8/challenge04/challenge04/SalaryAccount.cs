@@ -8,12 +8,15 @@ namespace challenge04
 {
     internal class SalaryAccount:Account
     {
-        private const decimal TaxRate = 0.02m;
+        private decimal TaxRate;
 
         public SalaryAccount(string title, string number, decimal balance)
-            : base(title, number, balance) { }
+            : base(title, number, balance) 
+        {
+            TaxRate = 0.02m;
+        }
 
-        // Salary-specific debit logic (no override)
+        
         public void SalaryDebit(decimal amount)
         {
             decimal tax = amount * TaxRate;
@@ -22,7 +25,7 @@ namespace challenge04
             if (GetBalance() >= totalAmount)
             {
                 SetBalance(GetBalance() - totalAmount);
-                Console.WriteLine($"Debited {amount:C} with tax {tax:C}. New balance: {GetBalance():C}");
+                Console.WriteLine($"Debited {amount} with tax {tax}. New balance: {GetBalance()}");
             }
             else
             {

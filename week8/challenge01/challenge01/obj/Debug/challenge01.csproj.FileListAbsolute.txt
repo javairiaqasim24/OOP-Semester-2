@@ -1,0 +1,7 @@
+C:\Users\786\Desktop\challenge01\challenge01\bin\Debug\challenge01.exe.config
+C:\Users\786\Desktop\challenge01\challenge01\bin\Debug\challenge01.exe
+C:\Users\786\Desktop\challenge01\challenge01\bin\Debug\challenge01.pdb
+C:\Users\786\Desktop\challenge01\challenge01\obj\Debug\challenge01.csproj.AssemblyReference.cache
+C:\Users\786\Desktop\challenge01\challenge01\obj\Debug\challenge01.csproj.CoreCompileInputs.cache
+C:\Users\786\Desktop\challenge01\challenge01\obj\Debug\challenge01.exe
+C:\Users\786\Desktop\challenge01\challenge01\obj\Debug\challenge01.pdb
